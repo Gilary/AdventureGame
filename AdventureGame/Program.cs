@@ -17,7 +17,9 @@ namespace AdventureGame
         {
             string CharacterName = "Espen";
 
+            Console.WriteLine("----------");
             Console.WriteLine("Strangers");
+            Console.WriteLine("----------");
             Console.WriteLine("Welcome stranger, are you from around here? You do not look familiar!");
             Console.WriteLine("Before we start our adventure you should tell me your name then stranger.");
             Console.WriteLine("So what is your name stranger?");
