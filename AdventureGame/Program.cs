@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * AdventureGame: Strangers
+ * Tilly, 24-3-2018
+ *  
+ * This work is a derivative of 
+ * "C# Adventure Game" by http://programmingisfun.com, used under CC BY.
+ * https://creativecommons.org/licenses/by/4.0/
+ */
+
+using System;
 
 namespace AdventureGame
 {
@@ -18,4 +27,6 @@ namespace AdventureGame
             Console.Read();
         }
     }
+    class Game {}
+    class Item {}
 }
